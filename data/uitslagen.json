@@ -1,0 +1,624 @@
+{
+ "wedstrijden": [
+  {
+   "w": "Trainingswedstrijd 3",
+   "b": "Breda",
+   "d": "2026-10-18",
+   "bron": "Trainingswedstrijd_3_-_uitslag.pdf",
+   "tijden": [
+    {
+     "n": "Jeroen de Heer",
+     "c": "HN4",
+     "a": 100,
+     "t": "10.63",
+     "pr": true
+    },
+    {
+     "n": "Pieter de Munck",
+     "c": "HSB",
+     "a": 100,
+     "t": "11.61",
+     "pr": false
+    },
+    {
+     "n": "Bastiaan Geurts",
+     "c": "H40",
+     "a": 100,
+     "t": "11.68",
+     "pr": false
+    },
+    {
+     "n": "Herbert Boender",
+     "c": "H50",
+     "a": 100,
+     "t": "12.49",
+     "pr": false
+    },
+    {
+     "n": "Maud van Roon",
+     "c": "DPB",
+     "a": 100,
+     "t": "12.93",
+     "pr": false
+    },
+    {
+     "n": "Ties Uithoven",
+     "c": "HPB",
+     "a": 100,
+     "t": "13.15",
+     "pr": false
+    },
+    {
+     "n": "Lisa Schreuders",
+     "c": "DA1",
+     "a": 100,
+     "t": "13.59",
+     "pr": true
+    },
+    {
+     "n": "Debora Damminga",
+     "c": "DPC",
+     "a": 100,
+     "t": "14.79",
+     "pr": true
+    },
+    {
+     "n": "Amelia McCormack",
+     "c": "DSA",
+     "a": 100,
+     "t": "14.88",
+     "pr": false
+    },
+    {
+     "n": "Lukas Knook",
+     "c": "HPB",
+     "a": 100,
+     "t": "15.20",
+     "pr": false
+    },
+    {
+     "n": "Ravi Rijsterborgh",
+     "c": "HPB",
+     "a": 100,
+     "t": "15.52",
+     "pr": false
+    },
+    {
+     "n": "Milou van Roon",
+     "c": "DPD",
+     "a": 100,
+     "t": "15.60",
+     "pr": true
+    },
+    {
+     "n": "Ilvy Rijsterborgh",
+     "c": "DPD",
+     "a": 100,
+     "t": "16.78",
+     "pr": false
+    },
+    {
+     "n": "Liva Meeldijk",
+     "c": "DPC",
+     "a": 100,
+     "t": "17.48",
+     "pr": false
+    },
+    {
+     "n": "Niels Goverse",
+     "c": "H40",
+     "a": 500,
+     "t": "42.65",
+     "pr": false
+    },
+    {
+     "n": "Roos de Vrieze",
+     "c": "DA2",
+     "a": 500,
+     "t": "45.79",
+     "pr": false
+    },
+    {
+     "n": "Elise Kortleve",
+     "c": "DN1",
+     "a": 500,
+     "t": "45.82",
+     "pr": false
+    },
+    {
+     "n": "Isa Boer",
+     "c": "DA2",
+     "a": 500,
+     "t": "46.95",
+     "pr": false
+    },
+    {
+     "n": "Bjorn Bijl",
+     "c": "HA1",
+     "a": 500,
+     "t": "46.97",
+     "pr": false
+    },
+    {
+     "n": "Anja Bollaart",
+     "c": "D60",
+     "a": 500,
+     "t": "48.77",
+     "pr": false
+    },
+    {
+     "n": "Marit de Heer",
+     "c": "DN2",
+     "a": 500,
+     "t": "49.63",
+     "pr": false
+    },
+    {
+     "n": "Tijmen Korevaar",
+     "c": "HB1",
+     "a": 500,
+     "t": "50.06",
+     "pr": false
+    },
+    {
+     "n": "Tim Eshuis",
+     "c": "HC2",
+     "a": 500,
+     "t": "50.58",
+     "pr": true
+    },
+    {
+     "n": "Monique Boer",
+     "c": "D45",
+     "a": 500,
+     "t": "51.24",
+     "pr": false
+    },
+    {
+     "n": "Claudia Vermeirsch",
+     "c": "DSA",
+     "a": 500,
+     "t": "51.28",
+     "pr": false
+    },
+    {
+     "n": "Gerita Smallegoor",
+     "c": "D55",
+     "a": 500,
+     "t": "53.64",
+     "pr": false
+    },
+    {
+     "n": "Patty van Hoorn",
+     "c": "D55",
+     "a": 500,
+     "t": "55.63",
+     "pr": false
+    },
+    {
+     "n": "Pieter den Dunnen",
+     "c": "H75",
+     "a": 500,
+     "t": "57.52",
+     "pr": false
+    },
+    {
+     "n": "Rebecca Damminga",
+     "c": "DC1",
+     "a": 500,
+     "t": "1:00.21",
+     "pr": false
+    },
+    {
+     "n": "Nomdo de Heer",
+     "c": "HSA",
+     "a": 500,
+     "t": "39.54",
+     "pr": false
+    },
+    {
+     "n": "Kees Bollaart",
+     "c": "H65",
+     "a": 500,
+     "t": "50.43",
+     "pr": false
+    },
+    {
+     "n": "Jeroen de Heer",
+     "c": "HN4",
+     "a": 500,
+     "t": "39.51",
+     "pr": false
+    },
+    {
+     "n": "Pieter de Munck",
+     "c": "HSB",
+     "a": 500,
+     "t": "42.15",
+     "pr": false
+    },
+    {
+     "n": "Bastiaan Geurts",
+     "c": "H40",
+     "a": 500,
+     "t": "44.17",
+     "pr": false
+    },
+    {
+     "n": "Herbert Boender",
+     "c": "H50",
+     "a": 500,
+     "t": "45.19",
+     "pr": false
+    },
+    {
+     "n": "Amelia McCormack",
+     "c": "DSA",
+     "a": 500,
+     "t": "52.58",
+     "pr": true
+    },
+    {
+     "n": "Maud van Roon",
+     "c": "DPB",
+     "a": 500,
+     "t": "52.82",
+     "pr": false
+    },
+    {
+     "n": "Ties Uithoven",
+     "c": "HPB",
+     "a": 500,
+     "t": "53.67",
+     "pr": false
+    },
+    {
+     "n": "Lisa Schreuders",
+     "c": "DA1",
+     "a": 500,
+     "t": "54.01",
+     "pr": false
+    },
+    {
+     "n": "Liva Meeldijk",
+     "c": "DPC",
+     "a": 500,
+     "t": "1:00.19",
+     "pr": false
+    },
+    {
+     "n": "Debora Damminga",
+     "c": "DPC",
+     "a": 500,
+     "t": "1:00.44",
+     "pr": false
+    },
+    {
+     "n": "Lukas Knook",
+     "c": "HPB",
+     "a": 500,
+     "t": "1:01.33",
+     "pr": true
+    },
+    {
+     "n": "Ravi Rijsterborgh",
+     "c": "HPB",
+     "a": 500,
+     "t": "1:06.45",
+     "pr": false
+    },
+    {
+     "n": "Milou van Roon",
+     "c": "DPD",
+     "a": 500,
+     "t": "1:09.61",
+     "pr": true
+    },
+    {
+     "n": "Ilvy Rijsterborgh",
+     "c": "DPD",
+     "a": 500,
+     "t": "1:15.14",
+     "pr": false
+    },
+    {
+     "n": "Niels Goverse",
+     "c": "H40",
+     "a": 1000,
+     "t": "1:25.90",
+     "pr": false
+    },
+    {
+     "n": "Roos de Vrieze",
+     "c": "DA2",
+     "a": 1000,
+     "t": "1:30.77",
+     "pr": false
+    },
+    {
+     "n": "Elise Kortleve",
+     "c": "DN1",
+     "a": 1000,
+     "t": "1:31.28",
+     "pr": false
+    },
+    {
+     "n": "Isa Boer",
+     "c": "DA2",
+     "a": 1000,
+     "t": "1:35.92",
+     "pr": false
+    },
+    {
+     "n": "Anja Bollaart",
+     "c": "D60",
+     "a": 1000,
+     "t": "1:38.54",
+     "pr": false
+    },
+    {
+     "n": "Bjorn Bijl",
+     "c": "HA1",
+     "a": 1000,
+     "t": "1:39.09",
+     "pr": true
+    },
+    {
+     "n": "Tim Eshuis",
+     "c": "HC2",
+     "a": 1000,
+     "t": "1:40.89",
+     "pr": true
+    },
+    {
+     "n": "Tijmen Korevaar",
+     "c": "HB1",
+     "a": 1000,
+     "t": "1:42.06",
+     "pr": true
+    },
+    {
+     "n": "Gerita Smallegoor",
+     "c": "D55",
+     "a": 1000,
+     "t": "1:46.38",
+     "pr": false
+    },
+    {
+     "n": "Claudia Vermeirsch",
+     "c": "DSA",
+     "a": 1000,
+     "t": "1:46.41",
+     "pr": false
+    },
+    {
+     "n": "Monique Boer",
+     "c": "D45",
+     "a": 1000,
+     "t": "1:46.54",
+     "pr": false
+    },
+    {
+     "n": "Marit de Heer",
+     "c": "DN2",
+     "a": 1000,
+     "t": "1:46.54",
+     "pr": false
+    },
+    {
+     "n": "Patty van Hoorn",
+     "c": "D55",
+     "a": 1000,
+     "t": "1:50.51",
+     "pr": false
+    },
+    {
+     "n": "Pieter den Dunnen",
+     "c": "H75",
+     "a": 1000,
+     "t": "1:52.26",
+     "pr": false
+    },
+    {
+     "n": "Rebecca Damminga",
+     "c": "DC1",
+     "a": 1000,
+     "t": "2:06.73",
+     "pr": false
+    },
+    {
+     "n": "Jeroen de Heer",
+     "c": "HN4",
+     "a": 300,
+     "t": "25.51",
+     "pr": false
+    },
+    {
+     "n": "Pieter de Munck",
+     "c": "HSB",
+     "a": 300,
+     "t": "27.60",
+     "pr": false
+    },
+    {
+     "n": "Bastiaan Geurts",
+     "c": "H40",
+     "a": 300,
+     "t": "28.63",
+     "pr": false
+    },
+    {
+     "n": "Herbert Boender",
+     "c": "H50",
+     "a": 300,
+     "t": "29.31",
+     "pr": false
+    },
+    {
+     "n": "Maud van Roon",
+     "c": "DPB",
+     "a": 300,
+     "t": "31.95",
+     "pr": true
+    },
+    {
+     "n": "Ties Uithoven",
+     "c": "HPB",
+     "a": 300,
+     "t": "32.35",
+     "pr": true
+    },
+    {
+     "n": "Lisa Schreuders",
+     "c": "DA1",
+     "a": 300,
+     "t": "33.54",
+     "pr": false
+    },
+    {
+     "n": "Amelia McCormack",
+     "c": "DSA",
+     "a": 300,
+     "t": "33.87",
+     "pr": true
+    },
+    {
+     "n": "Liva Meeldijk",
+     "c": "DPC",
+     "a": 300,
+     "t": "36.48",
+     "pr": false
+    },
+    {
+     "n": "Debora Damminga",
+     "c": "DPC",
+     "a": 300,
+     "t": "37.65",
+     "pr": false
+    },
+    {
+     "n": "Lukas Knook",
+     "c": "HPB",
+     "a": 300,
+     "t": "37.71",
+     "pr": true
+    },
+    {
+     "n": "Ravi Rijsterborgh",
+     "c": "HPB",
+     "a": 300,
+     "t": "40.70",
+     "pr": true
+    },
+    {
+     "n": "Milou van Roon",
+     "c": "DPD",
+     "a": 300,
+     "t": "41.50",
+     "pr": true
+    },
+    {
+     "n": "Ilvy Rijsterborgh",
+     "c": "DPD",
+     "a": 300,
+     "t": "45.76",
+     "pr": false
+    },
+    {
+     "n": "Nomdo de Heer",
+     "c": "HSA",
+     "a": 1500,
+     "t": "2:07.63",
+     "pr": false
+    },
+    {
+     "n": "Kees Bollaart",
+     "c": "H65",
+     "a": 1500,
+     "t": "2:40.61",
+     "pr": false
+    },
+    {
+     "n": "Danny Stam",
+     "c": "HSA",
+     "a": 3000,
+     "t": "4:10.10",
+     "pr": false
+    },
+    {
+     "n": "Jochem Uithoven",
+     "c": "H40",
+     "a": 3000,
+     "t": "4:18.06",
+     "pr": false
+    },
+    {
+     "n": "Max Eppinga",
+     "c": "HN2",
+     "a": 3000,
+     "t": "4:19.94",
+     "pr": false
+    },
+    {
+     "n": "Mees Eppinga",
+     "c": "HA2",
+     "a": 3000,
+     "t": "4:55.70",
+     "pr": false
+    },
+    {
+     "n": "Jurjen Franken",
+     "c": "HA2",
+     "a": 3000,
+     "t": "4:59.02",
+     "pr": false
+    },
+    {
+     "n": "Casper de Munck",
+     "c": "HSB",
+     "a": 3000,
+     "t": "5:07.49",
+     "pr": false
+    },
+    {
+     "n": "Pieter Pennings",
+     "c": "H55",
+     "a": 3000,
+     "t": "5:18.50",
+     "pr": false
+    },
+    {
+     "n": "Jarno de Laat",
+     "c": "HSA",
+     "a": 3000,
+     "t": "5:19.08",
+     "pr": false
+    },
+    {
+     "n": "Yara van Klaveren",
+     "c": "DA2",
+     "a": 3000,
+     "t": "5:22.08",
+     "pr": false
+    },
+    {
+     "n": "Merel Kramer",
+     "c": "DB2",
+     "a": 3000,
+     "t": "5:37.30",
+     "pr": false
+    },
+    {
+     "n": "Rinke van Grinsven",
+     "c": "HB1",
+     "a": 3000,
+     "t": "5:47.50",
+     "pr": false
+    }
+   ]
+  }
+ ],
+ "bronnen": {
+  "repo:Trainingswedstrijd_3_-_uitslag.pdf": "136375"
+ }
+}
